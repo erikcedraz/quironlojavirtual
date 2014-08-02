@@ -6,6 +6,8 @@ using System.Web.Mvc;
 using System.Web;
 using Quiron.LojaVirtual.Web.Models;
 using Quiron.LojaVirtual.Web.HtmlHelpers;
+using System.Web.WebPages.Html;
+using HtmlHelper = System.Web.Mvc.HtmlHelper;
 
 namespace Quiron.LojaVirtual.UnitTest
 {
